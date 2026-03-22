@@ -27,8 +27,8 @@ Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sun
 - Practicing computer vision workflows.
 
 ## Program and Output:
-## Name :AJAYRAJA RATHINAM T
-## Reg no :212224240006
+## Name :HASNA MUBARAK AZEEM
+## Reg no :212223240052
 
 ```python
 import cv2
